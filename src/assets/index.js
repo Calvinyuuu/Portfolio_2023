@@ -18,6 +18,8 @@ import tailwind from "./tech/tailwind.png";
 
 import apple from "./company/apple.png";
 import uniqlo from "./company/uniqlo.svg";
+import costco from "./company/costco.svg";
+import dzpc from "./company/dzpc.png";
 
 import rahf from "./rahf.png";
 import snews from "./snews.png";
@@ -43,6 +45,8 @@ export {
   tailwind,
   apple,
   uniqlo,
+  costco,
+  dzpc,
   rahf,
   snews,
   sst,

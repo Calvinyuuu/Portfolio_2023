@@ -14,6 +14,8 @@ import {
     docker,
     apple,
     uniqlo,
+    costco,
+    dzpc,
     rahf,
     snews,
     sst,
@@ -125,6 +127,33 @@ import {
         "Facilitated training for both new and tenured staff",
         "Promoted to Division Leader and Trainer in May 2018",
         "Represented the store as a Digital Ambassador for the E-Commerce division of Uniqlo Canada",
+      ],
+    },
+    {
+      title: "Front End Assistant - Seasonal",
+      company_name: "Costco Wholesale",
+      icon: costco,
+      iconBg: "#9a9ea1",
+      date: "October 2016 - January 2017",
+      points: [
+        "Supported the main cashiers to keep the checkout line flowing",
+        "Keeping the workspace clean for any passing customers",
+        "Maintained the parking lot for cleanliness, ease of use, and safety",
+        "Tracked down items needed for customers at checkout",
+      ],
+    },
+    {
+      title: "Coach and Coxswain - Contractor",
+      company_name: "Dragon Zone Paddling Club",
+      icon: dzpc,
+      iconBg: "#9a9ea1",
+      date: "January 2016 - January 2018",
+      points: [
+        "Directed and assisted all staff and volunteers with pre-festival setup and post-festival takedown",
+        "Experienced coach, developed a new skill set for aspiring water sport paddlers of all skill levels",
+        "Accredited Coxswain for Dragon boat teams or single day groups that are tasked with the safety of the group.",
+        "Facilitated safety debriefs and the setup/takedown of each session"
+
       ],
     },
   ];
