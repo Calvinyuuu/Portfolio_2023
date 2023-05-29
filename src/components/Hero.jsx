@@ -29,8 +29,9 @@ const Hero = () => {
             </p>
           </div>
           <div className="flex flex-row">
-            {socials.map((soc) => (
+            {socials.map((soc, index) => (
               <div
+                key={index}
                 onClick={() => window.open(soc.link, "_blank")}
                 className="w-10 h-10 flex items-center cursor-pointer"
               >
