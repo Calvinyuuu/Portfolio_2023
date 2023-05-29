@@ -48,7 +48,7 @@ const BallCanvas = ({ icon, name }) => {
 
         <Preload all />
       </Canvas>
-      <h1>{name}</h1>
+      <h1 className="sm:text-[18px] text-[14px] text-secondary uppercase tracking-wider">{name}</h1>
     </div>
 
   );

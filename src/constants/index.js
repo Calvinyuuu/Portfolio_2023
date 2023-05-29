@@ -13,6 +13,7 @@ import {
     figma,
     docker,
     apple,
+    uniqlo,
     rahf,
     snews,
     sst,
@@ -61,11 +62,11 @@ import {
   
   const technologies = [
     {
-      name: "HTML 5",
+      name: "HTML5",
       icon: html,
     },
     {
-      name: "CSS 3",
+      name: "CSS3",
       icon: css,
     },
     {
@@ -73,15 +74,15 @@ import {
       icon: javascript,
     },
     {
-      name: "React JS",
+      name: "React.JS",
       icon: reactjs,
     },
     {
-      name: "Tailwind CSS",
+      name: "Tailwind",
       icon: tailwind,
     },
     {
-      name: "Node JS",
+      name: "Node.JS",
       icon: nodejs,
     },
     {
@@ -103,12 +104,27 @@ import {
       title: "Operations Specialist",
       company_name: "Apple",
       icon: apple,
-      iconBg: "#383E56",
+      iconBg: "#9a9ea1",
       date: "March 2020 - April 2021",
       points: [
-        "test point 1",
-        "test point 2",
-        "test point 3",
+        "Performed inventory receiving, counting, returning and running tasks, to maintain retail inventory for thousands of customers weekly",
+        "Maintained standards in line with Retail Inventory Processes and Apple Global Standards",
+        "Identified training resources to keep up to date with inventory process changes",
+        "Managed appropriate paperwork and other duties as assigned by the leadership team",
+      ],
+    },
+    {
+      title: "Sales Associate and Trainer",
+      company_name: "Uniqlo",
+      icon: uniqlo,
+      iconBg: "#9a9ea1",
+      date: "January 2018 - October 2019",
+      points: [
+        "Maintained stockroom inventory and cleanliness",
+        "Promoted top standards set by our staff and the company at Uniqlo Japan",
+        "Facilitated training for both new and tenured staff",
+        "Promoted to Division Leader and Trainer in May 2018",
+        "Represented the store as a Digital Ambassador for the E-Commerce division of Uniqlo Canada",
       ],
     },
   ];
@@ -130,12 +146,12 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "Python",
-          color: "orange-text-gradient",
-        },
-        {
           name: "Web-Development",
           color: "pink-text-gradient",
+        },
+        {
+          name: "Python",
+          color: "orange-text-gradient",
         },
       ],
       image: rahf,

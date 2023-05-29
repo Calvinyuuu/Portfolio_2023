@@ -17,6 +17,7 @@ import reactjs from "./tech/reactjs.png";
 import tailwind from "./tech/tailwind.png";
 
 import apple from "./company/apple.png";
+import uniqlo from "./company/uniqlo.svg";
 
 import rahf from "./rahf.png";
 import snews from "./snews.png";
@@ -41,6 +42,7 @@ export {
   reactjs,
   tailwind,
   apple,
+  uniqlo,
   rahf,
   snews,
   sst,
