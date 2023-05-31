@@ -76,7 +76,7 @@ const Projects = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className={`${styles.sectionDescriptionText}`}
         >
-          The following projects are some projects I want to showcase. These range from my first term to my last term in the CST program. Each project has a brief description of the project and
+          The following projects are some projects I want to showcase. These range from my first term to my last term in the CST program. Each project has a brief description of the project.
         </motion.p>
       </div>
 
